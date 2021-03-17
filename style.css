@@ -1,0 +1,37 @@
+body {
+	background-color: #D2B4DE ;
+	text-align: center;
+}
+
+.container{
+	display: flex;
+	justify-content: space-around;
+}
+.box {
+	height: 150px;
+	width: 150px;
+}
+.box-blue {
+	background-color: #1F618D;
+	font-family: 'Annie Use Your Telescope', arial;
+	font-size: 22px;
+}
+.box-yellow {
+	background-color: #F4D03F;
+	font-family: 'Anonymous Pro', arial;
+	font-size: 22px;
+}
+.box-skyblue {
+	background-color: #85C1E9;
+	font-family: 'Architects Daughter', arial;
+	font-size: 22px;
+}
+.box-pink {
+	background-color: #F1948A;
+	font-family: 'Atma', arial;
+	font-size: 22px;
+}
+img {
+	width: 50%;
+	height: 50%;
+}
